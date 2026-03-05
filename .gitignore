@@ -1,0 +1,14 @@
+# Node.js standard exclusions
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+/dist/
+
+# IDE files
+.vscode/
+.idea/
